@@ -1,5 +1,8 @@
 # Microfrontend Demo
 
+![Kapture 2025-08-05 at 21 44 29](https://github.com/user-attachments/assets/016f0710-4504-417f-954b-aea820f8a850)
+
+
 This project demonstrates the concept of microfrontends using a simple, modular architecture. Each part of the frontend is developed, deployed, and maintained independently, allowing teams to work on different features without impacting each other.
 
 ## Overview
