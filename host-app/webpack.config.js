@@ -39,14 +39,17 @@ module.exports = {
         react: {
           singleton: true, // Only one instance of React should be loaded
           requiredVersion: '^18.2.0', // Match version in package.json
+          eager: true,
         },
         'react-dom': {
           singleton: true,
           requiredVersion: '^18.2.0',
+          eager: true,
         },
         'react-router-dom': {
           singleton: true,
           requiredVersion: '^6.23.1',
+          eager: true,
         },
       },
     }),
